@@ -1,6 +1,6 @@
 In my HTML structure, I've set up an input field (itemInput) where users can enter new items, along with buttons (addItemBtn and clearListBtn) to add items to the list and clear the entire list, respectively. The list itself is displayed within a container (itemList).
 
-For styling, I've included a CSS file (optional but recommended) that provides basic styling to enhance the visual appeal and usability of the app.
+For styling, I've included a CSS file that provides basic styling to enhance the visual appeal and usability of the app.
 
 In JavaScript, I've created an array called shoppingList to store items, each with properties name and completed.
 
